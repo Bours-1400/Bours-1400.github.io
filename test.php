@@ -13,3 +13,4 @@ $number=$_POST['number'];
 // $conn->close()
 
 ?>
+hello
